@@ -1,0 +1,4 @@
+Hungarian Crossbow: Can withstand high temperatures and can cover a great range.
+Phoenix Wand: Powerful and effective against fast moving targets.
+Vipertooth Trident: Effective against ground targets but ineffective in aiming at fast moving targets.
+Zeus' Thunderbolt: Effective against mysterious beings.

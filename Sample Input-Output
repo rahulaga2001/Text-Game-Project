@@ -1,0 +1,245 @@
+Here are the rules of the game stone seeker!
+
+
+You'll have to enter the following to choose your weapon : 
+        1 - Crossbow 
+        2 - Phoenix Wand 
+        3 - Zeus' Thunderbolt
+        4 - Vipertooth Trident
+
+
+Hungarian Crossbow: Can withstand high temperatures and can cover a great range.
+Phoenix Wand: Powerful and effective against fast moving targets.
+Vipertooth Trident: Effective against ground targets but ineffective in aiming at fast moving targets.
+Zeus' Thunderbolt: Effective against mysterious beings.
+
+Opponent Information:
+Peruvian Horntail: Extremely dangerous enemy whose flames can reach to about 50 feet.
+
+Manticore: Lightning quick and almost unconquerable beast capable of devouring any being.
+
+Acromantula: Venomous creature with moderate speed.
+
+Basilisk: Mysterious giant serpent bred by the darkest of wizards.
+
+
+Key:
+        H - HP
+        F - Fear
+
+Total number of levels = 4
+
+Defeat your enemy at the end of every level and win the game
+The same enemy can rise again to take revenge!
+
+Losing criteria:
+        H < 0
+        F > 20
+
+LET'S EMBARK ON THIS PERILOUS JOUNREY TO THE STONE OF IMMORTALITY!
+
+Choose your character
+1 : Wizard
+        Power = 10      Speed =6        Luck = 4        Courage = 5
+2 : Centaur
+        Power = 6       Speed =10       Luck = 4        Courage = 3
+3 : Goblin
+        Power = 4       Speed =4        Luck = 8        Courage = 6
+4 : Elf
+        Power = 6       Speed = 6       Luck = 6        Courage = 10
+1
+         CURRENT STATS
+
+         Level : 1
+         H     : 26
+         F     : 0
+
+Find the stone before time runs out!
+
+CURRENT LEVEL: 1
+
+Battle it out with the Manticore
+
+Lightning quick and almost unconquerable beast capable of devouring any being.
+
+        H   : 26
+        F   : 0
+
+What do you choose to do?
+
+        1. Attack
+        2. Run Away
+1
+
+You have the following weapons:
+
+        1: Hungarian Crossbow
+        2: Phoenix Wand
+        3: Zeus' Thunderbolt
+        4: Vipertooth Trident
+
+What's your weapon going to be? Input the number
+2
+7 Damage done to the enemy
+
+4 Damage inflicted upon you
+
+You have slain the monster
+
+A part of your health has been regenerated
+
+        You have leveled up!
+
+CURRENT LEVEL: 2
+
+Battle it out with the Acromantula
+
+Venomous creature with moderate speed.
+
+        H   : 30
+        F   : 3
+
+What do you choose to do?
+
+        1. Attack
+        2. Run Away
+1
+
+You have the following weapons:
+
+        1: Hungarian Crossbow
+        2: Phoenix Wand
+        3: Zeus' Thunderbolt
+        4: Vipertooth Trident
+
+What's your weapon going to be? Input the number
+3
+7 Damage done to the enemy
+
+4 Damage inflicted upon you
+
+
+        H   : 26
+        F   : 8
+
+What do you choose to do?
+
+        1. Attack
+        2. Run Away
+1
+
+You have the following weapons:
+
+        1: Hungarian Crossbow
+        2: Phoenix Wand
+        3: Zeus' Thunderbolt
+        4: Vipertooth Trident
+
+What's your weapon going to be? Input the number
+4
+17 Damage done to the enemy
+
+4 Damage inflicted upon you
+
+You have slain the monster
+
+A part of your health has been regenerated
+
+        You have leveled up!
+
+CURRENT LEVEL: 3
+
+        THE GATEKEEPER HAS FOUND YOU!
+
+ANSWER THIS QUESTION TO ESCAPE HIM
+
+
+Which Weapon in your arsenal belongs to an Olympian God? Enter the number
+        1 - Crossbow
+        2 - Wand
+        3 - Thunderbolt
+        4 - Trident
+3
+Well done seeker! You have escaped the GATEKEEPER
+You have been rewarded
+A part of your health has been regenerated
+
+Battle it out with the Peruvian Horntail
+
+Extremely dangerous enemy whose flames can reach to about 50 feet
+
+        H   : 35
+        F   : 13
+
+What do you choose to do?
+
+        1. Attack
+        2. Run Away
+1
+
+You have the following weapons:
+
+        1: Hungarian Crossbow
+        2: Phoenix Wand
+        3: Zeus' Thunderbolt
+        4: Vipertooth Trident
+
+What's your weapon going to be? Input the number
+1 
+15 Damage done to the enemy
+
+6 Damage inflicted upon you
+
+You have slain the monster
+
+A part of your health has been regenerated
+
+        You have leveled up!
+
+CURRENT LEVEL: 4
+
+Battle it out with the Peruvian Horntail
+
+Extremely dangerous enemy whose flames can reach to about 50 feet
+
+        H   : 34
+        F   : 14
+
+What do you choose to do?
+
+        1. Attack
+        2. Run Away
+1
+
+You have the following weapons:
+
+        1: Hungarian Crossbow
+        2: Phoenix Wand
+        3: Zeus' Thunderbolt
+        4: Vipertooth Trident
+
+What's your weapon going to be? Input the number
+1
+Critical hit!
+20 Damage done to the enemy
+
+7 Damage inflicted upon you
+
+You have slain the monster
+
+A part of your health has been regenerated
+
+
+                THE WORLD BENDS THE KNEE TO YOU!
+        THE STONE OF IMMORTALITY IS YOURS SEEKER
+
+
+
+ENEMIES DEFEATED = 4
+
+NAME OF ENEMIES :
+
+Manticore
+Acromantula
+Peruvian Horntail
+Peruvian Horntail

@@ -1,0 +1,10 @@
+
+
+ENEMIES DEFEATED = 4 
+
+NAME OF ENEMIES : 
+
+Manticore
+Acromantula
+Peruvian Horntail
+Peruvian Horntail
